@@ -7,6 +7,6 @@ $(document).ready(function() {
     return $('div img:last-child');
   }
   function ninjaBabySelector(){
-    return ;
+    return $('#baby-ninja');
   }
 });

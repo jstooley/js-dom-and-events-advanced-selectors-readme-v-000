@@ -1,9 +1,12 @@
 $(document).ready(function() {
 
   function paragraphSelector(){
-    return $('p')
+    return $('p');
   }
   function lastImageSelector(){
-    return $('div img:last-child')
+    return $('div img:last-child');
+  }
+  function ninjaBabySelector(){
+    return ;
   }
 });

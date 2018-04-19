@@ -12,7 +12,8 @@ $(document).ready(function() {
   function divSelector(){
     return $('div');
   }
+
   function firstListItem(){
-    return $('ul li:first-child')
+    return $('ul li:first-child');
   }
 });

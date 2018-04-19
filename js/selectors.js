@@ -12,4 +12,7 @@ $(document).ready(function() {
   function divSelector(){
     return $('div');
   }
+  function firstListItem(){
+    
+  }
 });
